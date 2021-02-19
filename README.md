@@ -12,6 +12,19 @@ E | `primera-iteracion/e`
 
 > No editar ramas que no sean las de tu grupo !!!
 
+Para clonar el repositorio se puede ejecutar el siguiente comando:
+
+```
+git clone https://github.com/Juanjo2550/trappi.git
+```
+
+Y luego cambiamos de rama para comenzar a trabajar
+
+```
+git checkout nombre_de_la_rama
+```
+
+Y estará todo listo para trabajar.
 
 ### Introducción
 
